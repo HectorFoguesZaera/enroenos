@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45605483-9bcf-4f6f-80ac-5aa36eda2c4d" name="Changes" comment="Commit del dia, subo el proyecto por primera vez">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git_pruebas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hola_Mundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="45605483-9bcf-4f6f-80ac-5aa36eda2c4d" name="Changes" comment="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad&#10;segundo commit local en vardad">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hola_Mundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hola_Mundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675424274562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad">
+      <created>1675424760139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675424760139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad&#10;segundo commit local en vardad">
+      <created>1675424794855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675424794855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit del dia, subo el proyecto por primera vez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit del dia, subo el proyecto por primera vez" />
+    <MESSAGE value="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad" />
+    <MESSAGE value="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad&#10;segundo commit local en vardad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit del dia, subo el proyecto por primera vez&#10;commit local en verdad&#10;segundo commit local en vardad" />
   </component>
 </project>
